@@ -1,0 +1,2 @@
+# Bayesian-MCMC-presentation
+介绍了MCMC在计算贝叶斯估计中的应用，有简单的理论推导，计算公式和以两个混杂的泊松分布为例的模拟结果
